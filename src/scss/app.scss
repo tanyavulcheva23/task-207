@@ -33,12 +33,14 @@ html {
   background-color: $light;
 }
 
+.card .content {
 
+}
 
 
 .card{
     width: 500px;
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 
 .card-header{
